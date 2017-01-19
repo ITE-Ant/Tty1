@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ITE-Ant Pages
 
-You can use the [editor on GitHub](https://github.com/ITE-Ant/Tty1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can see content for our website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever we commit to our repository, GitHub Pages are rebuild in our site, from the content in your Markdown files.
 
 ### Markdown
 
